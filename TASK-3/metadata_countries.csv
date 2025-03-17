@@ -1,0 +1,101 @@
+country_code,country_name,flag_path,anthem_music_path,anthem_text_path
+ai,Anguilla,/kaggle/working/flag_images/ai.jpg,/kaggle/working/anthems_music/ai.mp3,/kaggle/working/anthems_text/ai.txt
+ru,Russian Federation,/kaggle/working/flag_images/ru.jpg,/kaggle/working/anthems_music/ru.mp3,/kaggle/working/anthems_text/ru.txt
+lt,Lithuania,/kaggle/working/flag_images/lt.jpg,/kaggle/working/anthems_music/lt.mp3,/kaggle/working/anthems_text/lt.txt
+nr,Nauru,/kaggle/working/flag_images/nr.jpg,/kaggle/working/anthems_music/nr.mp3,/kaggle/working/anthems_text/nr.txt
+bg,Bulgaria,/kaggle/working/flag_images/bg.jpg,/kaggle/working/anthems_music/bg.mp3,/kaggle/working/anthems_text/bg.txt
+ye,Yemen,/kaggle/working/flag_images/ye.jpg,/kaggle/working/anthems_music/ye.mp3,/kaggle/working/anthems_text/ye.txt
+cw,Curaçao,/kaggle/working/flag_images/cw.jpg,/kaggle/working/anthems_music/cw.mp3,/kaggle/working/anthems_text/cw.txt
+gd,Grenada,/kaggle/working/flag_images/gd.jpg,/kaggle/working/anthems_music/gd.mp3,/kaggle/working/anthems_text/gd.txt
+ee,Estonia,/kaggle/working/flag_images/ee.jpg,/kaggle/working/anthems_music/ee.mp3,/kaggle/working/anthems_text/ee.txt
+vg,"Virgin Islands, British",/kaggle/working/flag_images/vg.jpg,/kaggle/working/anthems_music/vg.mp3,/kaggle/working/anthems_text/vg.txt
+af,Afghanistan,/kaggle/working/flag_images/af.jpg,/kaggle/working/anthems_music/af.mp3,/kaggle/working/anthems_text/af.txt
+ge,Georgia,/kaggle/working/flag_images/ge.jpg,/kaggle/working/anthems_music/ge.mp3,/kaggle/working/anthems_text/ge.txt
+gb,United Kingdom,/kaggle/working/flag_images/gb.jpg,/kaggle/working/anthems_music/gb.mp3,/kaggle/working/anthems_text/gb.txt
+im,Isle of Man,/kaggle/working/flag_images/im.jpg,/kaggle/working/anthems_music/im.mp3,/kaggle/working/anthems_text/im.txt
+in,India,/kaggle/working/flag_images/in.jpg,/kaggle/working/anthems_music/in.mp3,/kaggle/working/anthems_text/in.txt
+om,Oman,/kaggle/working/flag_images/om.jpg,/kaggle/working/anthems_music/om.mp3,/kaggle/working/anthems_text/om.txt
+qa,Qatar,/kaggle/working/flag_images/qa.jpg,/kaggle/working/anthems_music/qa.mp3,/kaggle/working/anthems_text/qa.txt
+za,South Africa,/kaggle/working/flag_images/za.jpg,/kaggle/working/anthems_music/za.mp3,/kaggle/working/anthems_text/za.txt
+tl,Timor-Leste,/kaggle/working/flag_images/tl.jpg,/kaggle/working/anthems_music/tl.mp3,/kaggle/working/anthems_text/tl.txt
+tz,"Tanzania, United Republic of",/kaggle/working/flag_images/tz.jpg,/kaggle/working/anthems_music/tz.mp3,/kaggle/working/anthems_text/tz.txt
+py,Paraguay,/kaggle/working/flag_images/py.jpg,/kaggle/working/anthems_music/py.mp3,/kaggle/working/anthems_text/py.txt
+et,Ethiopia,/kaggle/working/flag_images/et.jpg,/kaggle/working/anthems_music/et.mp3,/kaggle/working/anthems_text/et.txt
+fj,Fiji,/kaggle/working/flag_images/fj.jpg,/kaggle/working/anthems_music/fj.mp3,/kaggle/working/anthems_text/fj.txt
+kp,"Korea, Democratic People's Republic of",/kaggle/working/flag_images/kp.jpg,/kaggle/working/anthems_music/kp.mp3,/kaggle/working/anthems_text/kp.txt
+mx,Mexico,/kaggle/working/flag_images/mx.jpg,/kaggle/working/anthems_music/mx.mp3,/kaggle/working/anthems_text/mx.txt
+my,Malaysia,/kaggle/working/flag_images/my.jpg,/kaggle/working/anthems_music/my.mp3,/kaggle/working/anthems_text/my.txt
+mt,Malta,/kaggle/working/flag_images/mt.jpg,/kaggle/working/anthems_music/mt.mp3,/kaggle/working/anthems_text/mt.txt
+ve,"Venezuela, Bolivarian Republic of",/kaggle/working/flag_images/ve.jpg,/kaggle/working/anthems_music/ve.mp3,/kaggle/working/anthems_text/ve.txt
+bh,Bahrain,/kaggle/working/flag_images/bh.jpg,/kaggle/working/anthems_music/bh.mp3,/kaggle/working/anthems_text/bh.txt
+tj,Tajikistan,/kaggle/working/flag_images/tj.jpg,/kaggle/working/anthems_music/tj.mp3,/kaggle/working/anthems_text/tj.txt
+at,Austria,/kaggle/working/flag_images/at.jpg,/kaggle/working/anthems_music/at.mp3,/kaggle/working/anthems_text/at.txt
+rw,Rwanda,/kaggle/working/flag_images/rw.jpg,/kaggle/working/anthems_music/rw.mp3,/kaggle/working/anthems_text/rw.txt
+ao,Angola,/kaggle/working/flag_images/ao.jpg,/kaggle/working/anthems_music/ao.mp3,/kaggle/working/anthems_text/ao.txt
+au,Australia,/kaggle/working/flag_images/au.jpg,/kaggle/working/anthems_music/au.mp3,/kaggle/working/anthems_text/au.txt
+mz,Mozambique,/kaggle/working/flag_images/mz.jpg,/kaggle/working/anthems_music/mz.mp3,/kaggle/working/anthems_text/mz.txt
+nu,Niue,/kaggle/working/flag_images/nu.jpg,/kaggle/working/anthems_music/nu.mp3,/kaggle/working/anthems_text/nu.txt
+eh,Western Sahara,/kaggle/working/flag_images/eh.jpg,/kaggle/working/anthems_music/eh.mp3,/kaggle/working/anthems_text/eh.txt
+tn,Tunisia,/kaggle/working/flag_images/tn.jpg,/kaggle/working/anthems_music/tn.mp3,/kaggle/working/anthems_text/tn.txt
+gu,Guam,/kaggle/working/flag_images/gu.jpg,/kaggle/working/anthems_music/gu.mp3,/kaggle/working/anthems_text/gu.txt
+bl,Saint Barthélemy,/kaggle/working/flag_images/bl.jpg,/kaggle/working/anthems_music/bl.mp3,/kaggle/working/anthems_text/bl.txt
+bj,Benin,/kaggle/working/flag_images/bj.jpg,/kaggle/working/anthems_music/bj.mp3,/kaggle/working/anthems_text/bj.txt
+mu,Mauritius,/kaggle/working/flag_images/mu.jpg,/kaggle/working/anthems_music/mu.mp3,/kaggle/working/anthems_text/mu.txt
+ax,Åland Islands,/kaggle/working/flag_images/ax.jpg,/kaggle/working/anthems_music/ax.mp3,/kaggle/working/anthems_text/ax.txt
+gh,Ghana,/kaggle/working/flag_images/gh.jpg,/kaggle/working/anthems_music/gh.mp3,/kaggle/working/anthems_text/gh.txt
+li,Liechtenstein,/kaggle/working/flag_images/li.jpg,/kaggle/working/anthems_music/li.mp3,/kaggle/working/anthems_text/li.txt
+dz,Algeria,/kaggle/working/flag_images/dz.jpg,/kaggle/working/anthems_music/dz.mp3,/kaggle/working/anthems_text/dz.txt
+ad,Andorra,/kaggle/working/flag_images/ad.jpg,/kaggle/working/anthems_music/ad.mp3,/kaggle/working/anthems_text/ad.txt
+la,Laos (Lao People's Democratic Republic),/kaggle/working/flag_images/la.jpg,/kaggle/working/anthems_music/la.mp3,/kaggle/working/anthems_text/la.txt
+ht,Haiti,/kaggle/working/flag_images/ht.jpg,/kaggle/working/anthems_music/ht.mp3,/kaggle/working/anthems_text/ht.txt
+az,Azerbaijan,/kaggle/working/flag_images/az.jpg,/kaggle/working/anthems_music/az.mp3,/kaggle/working/anthems_text/az.txt
+pr,Puerto Rico,/kaggle/working/flag_images/pr.jpg,/kaggle/working/anthems_music/pr.mp3,/kaggle/working/anthems_text/pr.txt
+lb,Lebanon,/kaggle/working/flag_images/lb.jpg,/kaggle/working/anthems_music/lb.mp3,/kaggle/working/anthems_text/lb.txt
+vn,Vietnam,/kaggle/working/flag_images/vn.jpg,/kaggle/working/anthems_music/vn.mp3,/kaggle/working/anthems_text/vn.txt
+gw,Guinea-Bissau,/kaggle/working/flag_images/gw.jpg,/kaggle/working/anthems_music/gw.mp3,/kaggle/working/anthems_text/gw.txt
+ws,Samoa,/kaggle/working/flag_images/ws.jpg,/kaggle/working/anthems_music/ws.mp3,/kaggle/working/anthems_text/ws.txt
+so,Somalia,/kaggle/working/flag_images/so.jpg,/kaggle/working/anthems_music/so.mp3,/kaggle/working/anthems_text/so.txt
+mk,North Macedonia,/kaggle/working/flag_images/mk.jpg,/kaggle/working/anthems_music/mk.mp3,/kaggle/working/anthems_text/mk.txt
+ml,Mali,/kaggle/working/flag_images/ml.jpg,/kaggle/working/anthems_music/ml.mp3,/kaggle/working/anthems_text/ml.txt
+mw,Malawi,/kaggle/working/flag_images/mw.jpg,/kaggle/working/anthems_music/mw.mp3,/kaggle/working/anthems_text/mw.txt
+sk,Slovakia,/kaggle/working/flag_images/sk.jpg,/kaggle/working/anthems_music/sk.mp3,/kaggle/working/anthems_text/sk.txt
+me,Montenegro,/kaggle/working/flag_images/me.jpg,/kaggle/working/anthems_music/me.mp3,/kaggle/working/anthems_text/me.txt
+pn,Pitcairn,/kaggle/working/flag_images/pn.jpg,/kaggle/working/anthems_music/pn.mp3,/kaggle/working/anthems_text/pn.txt
+nz,New Zealand,/kaggle/working/flag_images/nz.jpg,/kaggle/working/anthems_music/nz.mp3,/kaggle/working/anthems_text/nz.txt
+cm,Cameroon,/kaggle/working/flag_images/cm.jpg,/kaggle/working/anthems_music/cm.mp3,/kaggle/working/anthems_text/cm.txt
+pa,Panama,/kaggle/working/flag_images/pa.jpg,/kaggle/working/anthems_music/pa.mp3,/kaggle/working/anthems_text/pa.txt
+kz,Kazakhstan,/kaggle/working/flag_images/kz.jpg,/kaggle/working/anthems_music/kz.mp3,/kaggle/working/anthems_text/kz.txt
+ca,Canada,/kaggle/working/flag_images/ca.jpg,/kaggle/working/anthems_music/ca.mp3,/kaggle/working/anthems_text/ca.txt
+ke,Kenya,/kaggle/working/flag_images/ke.jpg,/kaggle/working/anthems_music/ke.mp3,/kaggle/working/anthems_text/ke.txt
+lv,Latvia,/kaggle/working/flag_images/lv.jpg,/kaggle/working/anthems_music/lv.mp3,/kaggle/working/anthems_text/lv.txt
+se,Sweden,/kaggle/working/flag_images/se.jpg,/kaggle/working/anthems_music/se.mp3,/kaggle/working/anthems_text/se.txt
+ie,Ireland,/kaggle/working/flag_images/ie.jpg,/kaggle/working/anthems_music/ie.mp3,/kaggle/working/anthems_text/ie.txt
+cr,Costa Rica,/kaggle/working/flag_images/cr.jpg,/kaggle/working/anthems_music/cr.mp3,/kaggle/working/anthems_text/cr.txt
+gl,Greenland,/kaggle/working/flag_images/gl.jpg,/kaggle/working/anthems_music/gl.mp3,/kaggle/working/anthems_text/gl.txt
+uz,Uzbekistan,/kaggle/working/flag_images/uz.jpg,/kaggle/working/anthems_music/uz.mp3,/kaggle/working/anthems_text/uz.txt
+ls,Lesotho,/kaggle/working/flag_images/ls.jpg,/kaggle/working/anthems_music/ls.mp3,/kaggle/working/anthems_text/ls.txt
+pt,Portugal,/kaggle/working/flag_images/pt.jpg,/kaggle/working/anthems_music/pt.mp3,/kaggle/working/anthems_text/pt.txt
+ua,Ukraine,/kaggle/working/flag_images/ua.jpg,/kaggle/working/anthems_music/ua.mp3,/kaggle/working/anthems_text/ua.txt
+st,Sao Tome and Principe,/kaggle/working/flag_images/st.jpg,/kaggle/working/anthems_music/st.mp3,/kaggle/working/anthems_text/st.txt
+il,Israel,/kaggle/working/flag_images/il.jpg,/kaggle/working/anthems_music/il.mp3,/kaggle/working/anthems_text/il.txt
+sy,Syrian Arab Republic,/kaggle/working/flag_images/sy.jpg,/kaggle/working/anthems_music/sy.mp3,/kaggle/working/anthems_text/sy.txt
+va,Holy See (Vatican City State),/kaggle/working/flag_images/va.jpg,/kaggle/working/anthems_music/va.mp3,/kaggle/working/anthems_text/va.txt
+bb,Barbados,/kaggle/working/flag_images/bb.jpg,/kaggle/working/anthems_music/bb.mp3,/kaggle/working/anthems_text/bb.txt
+sg,Singapore,/kaggle/working/flag_images/sg.jpg,/kaggle/working/anthems_music/sg.mp3,/kaggle/working/anthems_text/sg.txt
+dm,Dominica,/kaggle/working/flag_images/dm.jpg,/kaggle/working/anthems_music/dm.mp3,/kaggle/working/anthems_text/dm.txt
+de,Germany,/kaggle/working/flag_images/de.jpg,/kaggle/working/anthems_music/de.mp3,/kaggle/working/anthems_text/de.txt
+iq,Iraq,/kaggle/working/flag_images/iq.jpg,/kaggle/working/anthems_music/iq.mp3,/kaggle/working/anthems_text/iq.txt
+kr,"Korea, Republic of",/kaggle/working/flag_images/kr.jpg,/kaggle/working/anthems_music/kr.mp3,/kaggle/working/anthems_text/kr.txt
+md,"Moldova, Republic of",/kaggle/working/flag_images/md.jpg,/kaggle/working/anthems_music/md.mp3,/kaggle/working/anthems_text/md.txt
+it,Italy,/kaggle/working/flag_images/it.jpg,/kaggle/working/anthems_music/it.mp3,/kaggle/working/anthems_text/it.txt
+vi,"Virgin Islands, U.S.",/kaggle/working/flag_images/vi.jpg,/kaggle/working/anthems_music/vi.mp3,/kaggle/working/anthems_text/vi.txt
+pk,Pakistan,/kaggle/working/flag_images/pk.jpg,/kaggle/working/anthems_music/pk.mp3,/kaggle/working/anthems_text/pk.txt
+sh,"Saint Helena, Ascension and Tristan da Cunha",/kaggle/working/flag_images/sh.jpg,/kaggle/working/anthems_music/sh.mp3,/kaggle/working/anthems_text/sh.txt
+ag,Antigua and Barbuda,/kaggle/working/flag_images/ag.jpg,/kaggle/working/anthems_music/ag.mp3,/kaggle/working/anthems_text/ag.txt
+kg,Kyrgyzstan,/kaggle/working/flag_images/kg.jpg,/kaggle/working/anthems_music/kg.mp3,/kaggle/working/anthems_text/kg.txt
+ci,Côte d'Ivoire,/kaggle/working/flag_images/ci.jpg,/kaggle/working/anthems_music/ci.mp3,/kaggle/working/anthems_text/ci.txt
+zm,Zambia,/kaggle/working/flag_images/zm.jpg,/kaggle/working/anthems_music/zm.mp3,/kaggle/working/anthems_text/zm.txt
+sr,Suriname,/kaggle/working/flag_images/sr.jpg,/kaggle/working/anthems_music/sr.mp3,/kaggle/working/anthems_text/sr.txt
+bd,Bangladesh,/kaggle/working/flag_images/bd.jpg,/kaggle/working/anthems_music/bd.mp3,/kaggle/working/anthems_text/bd.txt
+th,Thailand,/kaggle/working/flag_images/th.jpg,/kaggle/working/anthems_music/th.mp3,/kaggle/working/anthems_text/th.txt
+ga,Gabon,/kaggle/working/flag_images/ga.jpg,/kaggle/working/anthems_music/ga.mp3,/kaggle/working/anthems_text/ga.txt
